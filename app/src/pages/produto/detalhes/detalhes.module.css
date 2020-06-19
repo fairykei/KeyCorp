@@ -1,0 +1,124 @@
+.detalhes {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.123);
+    height: 700px;
+}
+
+.breadcrumb {
+    margin: 50px 25px 50px 80px;
+}
+
+.breadcrumb ol {
+    background: #231F20;
+    color: white;
+}
+
+.page {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+}
+
+.imgProduct {
+    position: absolute;
+    width: 420px;
+    height: 350px;
+    left: 211px;
+    background: black;
+    /* background: url(image.png); */
+    border-radius: 2%;
+}
+
+.title {
+    top: 215px;
+    position: absolute;
+    width: 372px;
+    height: 42px;
+    left: 675px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+    text-align: right;
+}
+
+.rating {
+    position: absolute;
+    width: 210px;
+    height: 33px;
+    left: 945px;
+    top: 266px;
+}
+
+.valor-original {
+    padding-top: 50px;
+    position: absolute;
+    width: 220px;
+    height: 30.04px;
+    left: 925px;
+    top: 315px;
+    margin-right: -80px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 35px;
+    display: flex;
+    text-align: right;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.desc-title {
+    position: absolute;
+    width: 401px;
+    height: 54.18px;
+    left: 116px;
+    top: 680px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 47px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+.desc-text {
+    position: absolute;
+    width: 1083px;
+    height: 140px;
+    left: 115px;
+    top: 774px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: justify;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+.btn1,
+.btn2 {
+    background: black;
+    border-color: rgba(255, 153, 0);
+    margin-top: 200px;
+    float: right;
+}
+
+.btn1 {
+    margin-right: 180px;
+}
+
+.btn2 {
+    margin-left: 510px;
+    margin-right: 20px;
+}
+
+.text a {
+    margin-left: 100px;
+}
+
+.text:hover {
+    background: rgba(255, 153, 0);
+}

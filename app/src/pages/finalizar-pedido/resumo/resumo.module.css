@@ -1,0 +1,98 @@
+/* Resumo pedido */
+
+.resumo-pedido {
+    position: absolute;
+    width: 30%;
+    height: 100%;
+    left: 58.5%;
+    background: rgba(0, 0, 0, 0.80);
+    top: 75px;
+}
+
+.produto {
+    left: 40px;
+    position: absolute;
+    width: 85%;
+    height: 50%;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.123);
+}
+
+.info {
+    margin: 180px 0 0 0;
+}
+
+.info-desc {
+    max-width: 100ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.produto span {
+    align-items: center;
+    text-align: center;
+    color: white;
+    margin: 100px 0 0 0;
+}
+
+.produto h3 {
+    font-size: 15px;
+}
+
+.imagem {
+    position: absolute;
+    width: 30%;
+    height: 141px;
+    left: 35%;
+    margin: 20px 0 0 0;
+    /* background: red; */
+}
+
+.subTitulo h3 {
+    font-weight: 300;
+}
+
+.prod-info {
+    margin: 75% 0 0 8%;
+    /* background: red; */
+    height: 200px;
+    width: 85%;
+}
+
+.wrapper1 {
+    margin: 50px 0 0 10px;
+    display: inline-grid;
+    grid-template-columns: 100px 230px;
+}
+
+.wrapper2 {
+    margin-top: 150px;
+    display: inline-grid;
+    grid-template-columns: 200px 250px;
+}
+
+.wrapper2 h3 {
+    margin-left: -70px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.wr span,
+h3 {
+    left: -20px;
+    color: white;
+    font-size: 15px;
+}
+
+.span {
+    text-align: right;
+}
+
+.foto {
+    position: absolute;
+    width: 93%;
+    height: 93%;
+    left: 3%;
+    margin: 25px 0 0 0;
+    background-size: 100px 100px;
+}

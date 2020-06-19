@@ -1,0 +1,68 @@
+/*Menu do usuário*/
+
+.usuario .user-options {
+    position: relative;
+    border: none;
+    float: left;
+
+    margin: 25px auto auto -70px;
+    background: none;
+}
+
+.usuario .user-options li {
+    list-style: none;
+    position: relative;
+    float: left;
+    border-right: none;
+    color: #FFFFFF;
+}
+
+.usuario .user-options li a, li p {
+    color: white;
+    text-decoration: none;
+    padding: 0px 10px;
+    display: block;
+
+}
+
+.usuario .user-options a {
+    border-bottom: solid 1px rgba(255, 255, 255, 0.192);
+}
+
+
+
+.usuario .user-options li ul {
+    position: absolute;
+    top: 25px;
+    left: 0;
+    background-color: black;
+    display: none;
+}
+
+.usuario .user-options li:hover ul,
+.menu li.over ul {
+    display: block;
+}
+
+.usuario .user-options li ul li {
+    border: none;
+    display: block;
+    width: 150px;
+}
+
+.usuario .user-options i {
+    float: left;
+    margin-left: -20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: #FFFFFF;
+    padding-right: 15px;
+}
+
+.user-options .user {
+    float: left;
+    margin-left: -35px;
+    margin-top: -5px;
+    font-size: 35px;
+    color: #FF9900;
+}

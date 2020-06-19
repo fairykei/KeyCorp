@@ -1,0 +1,174 @@
+.carrinho {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.123);
+    height: 600px;
+}
+
+.breadcrumb {
+    margin: 50px 25px 50px 80px;
+}
+
+.breadcrumb ol {
+    background: #231F20;
+    color: white;
+}
+
+.container {
+    display: grid;
+    height: 400px;
+    width: 100%;
+}
+
+.container .col1 {
+    margin: 0 50px 5px 8%;
+}
+
+.container .col2 {
+    margin: 0 50px 5px 75px;
+}
+
+.container .col1,
+.col2 {
+    color: white;
+    background: #000000;
+    border-radius: 5px;
+}
+
+.col1 h3 {
+    font-size: 25px;
+    width: 100%;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.titulo1,
+.titulo2 {
+    width: 100%;
+    margin-top: 20px;
+    font-size: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.48);
+}
+
+.titulo1 h3 {
+    left: 50px;
+}
+
+.titulo2 {
+    align-items: center;
+    text-align: center;
+}
+
+.button {
+    margin: 30px 0 0 0;
+}
+
+.total {
+    font-size: 20px;
+    float: left;
+    margin: 60px 0 0 0;
+}
+
+.btnFinalizar {
+    width: 100%;
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    margin: 180px 0 0 0;
+}
+
+.btnFinalizar button {
+    width: 200px;
+    height: 39px;
+    border: none;
+    border-radius: 5px;
+    color: #231F20;
+}
+
+.inpt {
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    left: 515px;
+    text-align: center;
+    border-radius: 2px;
+    border: none;
+    top: 10px;
+}
+
+.img {
+    position: absolute;
+    width: 125px;
+    height: 141px;
+    left: 5px;
+    top: 5px;
+    background: url(../imagens/intellij.svg.png) no-repeat;
+    background-size: 130px 140px;
+}
+
+.prod {
+    top: 100px;
+    position: absolute;
+    width: 590px;
+    height: 151px;
+    left: 50px;
+}
+
+.prod:hover {
+    background: #FF9900;
+    color: black;
+}
+
+.info-car {
+    position: absolute;
+    width: 343px;
+    height: 130px;
+    left: 150px;
+    top: 10px;
+}
+
+.inpt {
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    left: 515px;
+    text-align: center;
+    border-radius: 2px;
+    border: none;
+    top: 10px;
+}
+
+.img {
+    position: absolute;
+    width: 125px;
+    height: 141px;
+    left: 5px;
+    top: 5px;
+    background: url(../imagens/intellij.svg.png) no-repeat;
+    background-size: 130px 140px;
+}
+
+.prod {
+    top: 100px;
+    position: absolute;
+    width: 590px;
+    height: 151px;
+    left: 50px;
+}
+
+.prod:hover {
+    background: #FF9900;
+    color: black;
+}
+
+.info-car {
+    position: absolute;
+    width: 343px;
+    height: 130px;
+    left: 150px;
+    top: 10px;
+}
+
+.total {
+    font-size: 20px;
+    float: left;
+    margin: 60px 0 0 0;
+}

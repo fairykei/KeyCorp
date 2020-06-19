@@ -1,0 +1,112 @@
+    .hearder {
+        width: 100%;
+        height: 75px;
+        background: black;
+        display: grid;
+    }
+    
+    .logo {
+        height: 100px;
+        width: 100px;
+    }
+    
+    .titulo {
+        color: #FFFFFF;
+        margin: 25px 0 0 0px;
+    }
+    
+    .titulo p {
+        margin-left: 100px;
+    }
+    
+    .container {
+        width: 100%;
+        margin: 0;
+    }
+    
+    .navegacao {
+        margin: 0 25px 0 0px;
+    }
+    
+    .barra input {
+        margin: 15px 100px 10px 100px;
+        background: rgba(255, 255, 255, 0.78);
+        width: 135%;
+        height: 20px;
+        border: none;
+        text-align: left;
+        border-radius: 30px;
+        padding-left: 20px;
+    }
+    
+    .produto .prod-options {
+        background-color: white;
+        position: relative;
+        border: none;
+        float: left;
+        top: -20px;
+        margin: 15px 100px 10px 100px;
+        background: none;
+        width: 75%;
+        font-size: 1em;
+    }
+    
+    .produto .prod-options li {
+        list-style: none;
+        position: relative;
+        float: left;
+        border-right: none;
+        margin-right: 60px;
+        color: #FFFFFF;
+    }
+    
+    .produto .prod-options li a {
+        color: white;
+        text-decoration: none;
+        padding: 5px 10px;
+        display: block;
+    }
+    
+    .produto .prod-options li ul {
+        position: absolute;
+        top: 30px;
+        left: 0;
+        background-color: black;
+        display: none;
+    }
+    
+    .produto .prod-options li:hover ul,
+    .menu li.over ul {
+        display: block;
+    }
+    
+    .produto .prod-options li ul li {
+        border: none;
+        display: block;
+        width: 75px;
+    }
+    
+    .produto .prod-options i {
+        float: left;
+    }
+    
+    .prod-options .icon1 {
+        float: right;
+        margin-right: -20px;
+        margin-top: 10px;
+    }
+    /* atalhos */
+    
+    .atalhos .icons span {
+        float: left;
+        margin: 25px 0 0 0;
+    }
+    
+    .atalhos .icons .icon {
+        float: left;
+        margin-top: 2px;
+        margin-left: 30px;
+        font-size: 20px;
+        color: #FF9900;
+        padding: 0 1px 0 0;
+    }

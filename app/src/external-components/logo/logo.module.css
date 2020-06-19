@@ -1,0 +1,6 @@
+    .logo {
+        background: url(./logo.png) 5% no-repeat;
+        height: 65px;
+        width: 100%;
+        background-size: 10%;
+    }

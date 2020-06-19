@@ -1,0 +1,33 @@
+.page-section {
+    color: white;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.123);
+    height: auto;
+}
+
+.about-heading-content {
+    margin: 80px 0 0 0;
+}
+
+.titulo {
+    margin: 50px 0 0 auto;
+    display: block;
+    font-size: 3rem;
+    font-weight: 100;
+    text-align: center;
+}
+
+.img {
+    background: url(./img/sobre.jpg)no-repeat;
+    margin: 50px 0 0 120px;
+    height: 400px;
+    width: auto;
+}
+
+.breadcrumb {
+    margin: 25px 25px 50px 80px;
+}
+
+.breadcrumb ol {
+    background: #231F20;
+    color: white;
+}

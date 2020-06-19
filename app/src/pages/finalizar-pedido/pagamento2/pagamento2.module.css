@@ -1,0 +1,109 @@
+.finalizar-pedido {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.123);
+    height: 695px;
+}
+
+.breadcrumb {
+    margin: 50px 25px 50px 100px;
+}
+
+.breadcrumb ol {
+    background: #231F20;
+    color: white;
+}
+
+.form {
+    margin: -15px 0 50px 110px;
+    height: 550px;
+}
+
+.form h3 {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.form p {
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.form label {
+    color: white;
+    margin-right: 50px;
+    align-items: center;
+    text-align: center;
+}
+
+.wrapper1 {
+    display: inline-grid;
+    grid-template-columns: 300px
+}
+
+.wrapper1 label {
+    display: inline-block;
+}
+
+.wrapper1 input {
+    width: 300px;
+}
+
+.wrapper2 {
+    display: grid;
+    grid-template-columns: 300px;
+}
+
+.wrapper2 input {
+    width: 300px;
+}
+
+.wrapper3 {
+    display: grid;
+    grid-template-columns: 300px;
+}
+
+.wrapper3 input {
+    width: 300px;
+}
+
+.wrapper4 input {
+    width: 300px;
+}
+
+.wr {
+    margin-bottom: 30px;
+}
+
+.wr input {
+    border: none;
+    border-bottom: 1px solid white;
+    box-sizing: border-box;
+    background: none;
+    color: white;
+}
+
+.botton {
+    float: left;
+    margin: 0 0 30px 210px;
+    display: inline;
+}
+
+.botton button {
+    margin-left: 50px;
+    width: 150px;
+    height: 40px;
+    color: #FF9900;
+    border: none;
+    background: rgba(0, 0, 0, 0.96);
+    border-radius: 3px;
+}
+
+.icon {
+    color: #FF9900;
+}
+
+.icone-voltar {
+    margin: -30px 0 50px 110px;
+}

@@ -1,0 +1,53 @@
+  /* .footer {
+      border-top: 1px solid rgba(255, 255, 255, 0.69);
+  } */
+  
+  .rodape {
+      padding: 5px 5px 5px 5px;
+      width: 80%;
+      margin: 120px 0 50px 100px;
+  }
+  
+  .main li {
+      text-decoration-line: underline;
+      list-style: none;
+  }
+  
+  .main {
+      position: relative;
+      display: inline-block;
+      color: white;
+  }
+  
+  .uteis,
+  .navegacao,
+  .redes {
+      float: right;
+      padding-left: 100px;
+  }
+  
+  .links {
+      margin-top: -95px;
+      ;
+  }
+  
+  .info {
+      width: 400px;
+  }
+  
+  .info .logo {
+      position: absolute;
+      width: 120px;
+      height: 55px;
+      background: #FFFFFF;
+      border: 1px solid #000000;
+      box-sizing: border-box;
+  }
+  
+  .info p {
+      margin-top: -50px;
+  }
+  
+  .info b {
+      color: #FF8C00;
+  }

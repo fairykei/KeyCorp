@@ -1,0 +1,48 @@
+.page {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.123);
+    height: 700px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+}
+
+.menu {
+    padding-left: 70px;
+}
+
+.table {
+    margin-top: 10px;
+}
+
+.historico {
+    margin: -200px 0 0 450px;
+    color: white;
+}
+
+.historico td {
+    padding-right: 55px;
+    padding-top: 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.397);
+}
+
+.historico td:nth-child(2) {
+    padding-right: 200px;
+}
+
+.historico h4 {
+    font-weight: bold;
+}
+
+.historico td p {
+    padding-left: 2px;
+    margin-bottom: 10px;
+}
+
+.breadcrumb {
+    margin: 15px 25px 50px 80px;
+}
+
+.breadcrumb ol {
+    background: #231F20;
+    color: white;
+}

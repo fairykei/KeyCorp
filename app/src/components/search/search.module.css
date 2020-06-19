@@ -1,0 +1,60 @@
+.search {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.123);
+    height: 500px;
+}
+
+.breadcrumb {
+    margin: 50px 25px 50px 80px;
+}
+
+.breadcrumb ol {
+    background: #231F20;
+    color: white;
+}
+
+.page {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+}
+
+.info {
+    float: left, center;
+    width: 50%;
+    height: 200px;
+    margin-left: 26%;
+    text-align: center;
+}
+
+.info h3 {
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: -10px;
+}
+
+.info p {
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: -10px;
+    font-weight: 300;
+}
+
+.btn {
+    border-radius: 3px;
+    border: none;
+    text-align: center;
+    /* color: #FFFFFF; */
+    width: 150px;
+    height: 30px;
+    margin-top: 2%;
+}
+
+.icon1 {
+    color: whitesmoke;
+    font-size: 55px;
+}
+
+.icon2 {
+    padding-left: 5px;
+    font-size: 30px;
+}

@@ -1,0 +1,49 @@
+.site-info {
+    color: white;
+    overflow: hidden;
+    background-color: black;
+    margin-top: 30px;
+    height: 300px;
+    margin-bottom: 100px;
+}
+
+.site-info .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
+.site-info .info-slide {
+    float: left;
+    width: 33.3333%;
+    box-sizing: border-box;
+    padding: 70px 70px 20px 20px;
+    text-align: center;
+    position: relative;
+}
+
+.site-info .img-container {
+    height: 55px;
+}
+
+.img-container .icon {
+    font-size: 55px;
+    color: #FF9900;
+}
+
+.site-info .info-slide h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin: 16px 0 0;
+}
+
+.site-info .info-slide p {
+    font-size: 15px;
+    margin: 4px 0 10px;
+    line-height: 1.2;
+}
+
+.site-info .info-slide>.img-container img {
+    vertical-align: middle;
+}
